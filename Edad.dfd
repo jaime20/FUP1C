@@ -1,0 +1,81 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+17
+"Ingrese su edad"
+5
+1
+2
+N1
+7
+0
+1
+15
+N1>=0 and N1<=2
+7
+0
+1
+16
+N1>=3 and N1<=12
+7
+0
+1
+18
+N1>=13 and N1 <=18
+7
+0
+1
+17
+N1>=19 and N1<=29
+7
+0
+1
+17
+N1>=30 and N1<=59
+7
+0
+1
+5
+N1>60
+13
+4
+1
+22
+"Eres un adulto mayor"
+13
+13
+4
+1
+16
+"eres un adulto"
+13
+13
+4
+1
+15
+"Eres un Joven"
+13
+13
+4
+1
+21
+"eres un adolescente"
+13
+13
+4
+1
+14
+"Eres un niño"
+13
+13
+4
+1
+14
+"Eres un bebe"
+13
+1
