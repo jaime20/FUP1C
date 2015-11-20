@@ -1,0 +1,100 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+29
+"Introduzca los Kgs de ropa" 
+5
+1
+2
+N1
+7
+0
+1
+24
+(N1 >= 0) and (N1 <= 10)
+7
+0
+1
+25
+(N1 >= 11) and (N1 <= 15)
+7
+0
+1
+25
+(N1 >= 16) and (N1 <=20) 
+7
+0
+1
+9
+(N1 > 20)
+13
+4
+1
+19
+"No se puede lavar"
+13
+13
+4
+1
+25
+"Maxima cantidad de agua"
+13
+13
+4
+1
+25
+"Media cantidad de agua" 
+13
+13
+4
+1
+26
+"Minima cantidad de agua" 
+13
+4
+1
+52
+"Ingrese tipo de ropa.  Delicada:1 Normal:2 Sucia:3"
+5
+1
+2
+N2
+7
+0
+1
+5
+N2=1 
+7
+0
+1
+4
+N2=2
+7
+0
+1
+4
+N2=3
+13
+4
+1
+30
+"Tiempo de lavado: 20 minutos"
+13
+13
+4
+1
+31
+" Tiempo de lavado: 10 minutos"
+13
+13
+4
+1
+29
+"Tiempo de lavado: 5 minutos"
+13
+1
