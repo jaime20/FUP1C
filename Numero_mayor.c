@@ -4,9 +4,8 @@ int cal[10];
 int mayor;
 int n;
 int i;
-int suma=0;
+int suma=0; 
 float prom;
-int n2;
 int main ()
 {
 	
@@ -26,7 +25,7 @@ int main ()
 			mayor=cal[n];
 		}
 	}
-    
+    printf("El numero mayor es  %d\n", mayor);
 
 	system("pause");
 	
