@@ -39,7 +39,7 @@ int main ()
 	}
 	if(veces>10)
 			{
-				printf("Solo Existen 10 numeros, no existen %d\n", veces);
+				printf("Solo Existen 10 numeros,  estas trepanado del cerebro no existen %d\n", veces);
 			}
    
    
